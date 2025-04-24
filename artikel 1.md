@@ -1,0 +1,138 @@
+# Riri-translation
+
+Kiamat Karir: Sulitnya Gen Z Mendapat Pekerjaan
+ #### Terjemahan oleh Riri | Sumber: [Breaking News English](https://breakingnewsenglish.com/2504/250403-career-apocalypse.html)
+ 
+ “kiamat karir”
+ Waktu adalah hal yang sulit untuk anak muda mencari kerja. Ini menjadi sulit dan lebih sulit untuk generasi Z (Gen Zers) untuk mencari pekerjaan. Gen zer adalah orang yang lahir antara pertengah hingga akhir 1990an dan awal 2010an. Mahasiswa-mahasiswa yang baru saja lulus dari perkuliahan tidak dapat menemukan pekerjaan. Aki Ito, kepala koresponden dari “Business Insider” website, memperingati tentang “Kiamat karir”. Dia mengatakan ketidakpastian dunia ini telah “mengajarkan lulusan sekarang untuk mempersiapkan kearah yang paling buruk”. British Jurnal dan penulis peter hitchen berkata satu alasannya adlah orang-orang iut belajar untuk “gelar yang tidak berharga”. Dia berkata anak muda akan “jauh menjadi lebih baik” jika mereka menjadi tukang pipa dan tukang listrik.
+ 
+ Ada lebih dari 4 juta Gen Zers tidak bersekolah dan bekerja di USA. Di inggris, ada sebuah permasalahan yang sama. Ada total 987,000 kaum muda usia 16 sampai 24 tahun tidak mengikuti pendidikan, pekerjaan, atau pelatihan pada desember tahun lalu. Ini telah mencapai lebih dari 100.000 dalam tahun terakhir ini. Banyak orang tidak menemukan pekerjaan karena kecerdasan buatan (AI). Sebuah angka penurunan pekerjaan sekarang terjadi disebabkan oleh AI. Ada ketakutan bahwa guru, akuntan, pengacara, penulis, dan pekerjaan-pekerjaan lainnya benar-benar bisa menghilang. Bagaimanapun, beberapa orang berkata banyak lulusan tidak lagi menginginkan “tingkat pemula”. Melainkan, mereka ingin untuk masuk kesebuah perusahaan di posisi menejemen level dan dibayar dengan baik dalam pekerjaan mereka yang baru pertama kali.  
+ 
+ ## 🗞️ Teks Asli (English)
+ Times are hard for young people looking for work. It is becoming more and more difficult for Generation Z (or Gen Zers) to find a job. A Gen Zer is someone born between the mid-to-late 1990s and early 2010s. Students who have just graduated from university cannot find employment. Aki Ito, chief correspondent for the "Business Insider" website, warned of a "career apocalypse". She said uncertainty in the world has "taught today's graduates to prepare for the worst". The British journalist and writer Peter Hitchens said one reason is that people are studying for "worthless degrees". He said young people would "be much better off" if they became plumbers or electricians.
+ 
+ There are over 4 million Gen Zers not in school or work in the USA. In the UK, there is a similar problem. There were 987,000 young people aged 16 to 24 not in education, employment, or training in December of last year. This has risen by over 100,000 in the past year. Many people cannot find jobs because of artificial intelligence (AI). An increasing number of jobs are now being done by AI. There are fears that teachers, accountants, lawyers, writers, and other jobs could completely disappear. However, some people say many graduates no longer want to do "entry-level" jobs. Instead, they want to enter a company at a management level and get well paid in their very first job.
+ 
+ 
+ ## 🌐 koresi Terjemahan (Bahasa Indonesia)
+ 
+ ### 1. **“Kiamat karir”**  
+ ✅ **Sudah oke** — ini memang istilah yang diterjemahkan langsung dari “career apocalypse”.
+ 
+ ---
+ 
+ ### 2. **Waktu adalah hal yang sulit untuk anak muda menacrai kerja.**  
+ 🔧 **Perbaikan:** *Sekarang adalah masa yang sulit bagi anak muda untuk mencari pekerjaan.*  
+ 📌 *"Waktu adalah hal yang sulit"* → tidak alami dalam bahasa Indonesia.  
+ 📌 *"menacrai"* → salah ketik dari *mencari*.
+ 
+ ---
+ 
+ ### 3. **Ini menjadi sulit dan lebih sulit untuk generasi Z (Gen Zers) untuk mencari pekerjaan.**  
+ 🔧 **Perbaikan:** *Hal ini menjadi semakin sulit bagi generasi Z (Gen Zers) untuk mendapatkan pekerjaan.*  
+ 📌 Gunakan *semakin sulit* bukan "sulit dan lebih sulit", agar lebih natural.  
+ 📌 "mendapatkan pekerjaan" lebih umum dipakai daripada "mencari pekerjaan".
+ 
+ ---
+ 
+ ### 4. **Gen zer adalah orang yang lahir antara pertengah hingga akhir 1990an dan awal 2010an.**  
+ 🔧 **Perbaikan:** *Gen Z adalah mereka yang lahir antara pertengahan hingga akhir 1990-an hingga awal 2010-an.*  
+ 📌 *"Gen zer"* → salah ketik.  
+ 📌 *"pertengah"* → seharusnya *pertengahan*.  
+ 📌 Format penulisan tahun juga disesuaikan dengan ejaan yang benar.
+ 
+ ---
+ 
+ ### 5. **Mahasiswa-mahasiswa yang baru saja lulus dari perkuliahan tidak dapat menemukan pekerjaan.**  
+ 🔧 **Perbaikan:** *Mahasiswa yang baru saja lulus dari perguruan tinggi kesulitan menemukan pekerjaan.*  
+ 📌 Gunakan bentuk tunggal saja (*mahasiswa*, bukan *mahasiswa-mahasiswa*), karena sudah umum berarti jamak.  
+ 📌 *"Perkuliahan"* → kurang tepat untuk konteks ini; *perguruan tinggi* lebih tepat.
+ 
+ ---
+ 
+ ### 6. **Aki Ito, kepala koresponden dari “Business Insider” website, memperingati tentang “Kiamat karir”.**  
+ 🔧 **Perbaikan:** *Aki Ito, kepala koresponden situs web “Business Insider”, memperingatkan tentang “kiamat karir”.*  
+ 📌 *memperingati tentang* → harusnya *memperingatkan tentang*.  
+ 📌 Kata “website” lebih tepat diterjemahkan menjadi “situs web”.
+ 
+ ---
+ 
+ ### 7. **Dia mengatakan ketidakpastian dunia ini telah “mengajarkan lulusan sekarang untuk mempersiapkan kearah yang paling buruk”.**  
+ 🔧 **Perbaikan:** *Ia mengatakan bahwa ketidakpastian dunia saat ini telah “mengajarkan lulusan saat ini untuk bersiap menghadapi kemungkinan terburuk”.*  
+ 📌 *kearah yang paling buruk* → lebih alami menjadi *kemungkinan terburuk*.
+ 
+ ---
+ 
+ ### 8. **British Jurnal dan penulis peter hitchen berkata satu alasannya adlah orang-orang iut belajar untuk “gelar yang tidak berharga”.**  
+ 🔧 **Perbaikan:** *Jurnalis Inggris dan penulis Peter Hitchens mengatakan bahwa salah satu alasannya adalah karena banyak orang mengambil “gelar yang tidak berharga”.*  
+ 📌 Banyak typo: *Jurnal → Jurnalis, adlah → adalah, iut → itu*.  
+ 📌 Nama orang dan institusi harus diawali huruf kapital.
+ 
+ ---
+ 
+ ### 9. **Dia berkata anak muda akan “jauh menjadi lebih baik” jika mereka menjadi tukang pipa dan tukang listrik.**  
+ 🔧 **Perbaikan:** *Ia mengatakan bahwa anak muda akan “jauh lebih baik” jika mereka menjadi tukang ledeng atau teknisi listrik.*  
+ 📌 *"jauh menjadi lebih baik"* → kurang alami.  
+ 📌 “Tukang pipa” sering disebut “tukang ledeng”, dan “tukang listrik” bisa diperjelas menjadi “teknisi listrik”.
+ 
+ ---
+ 
+ ### 10. **Ada lebih dari 4 juta Gen Zers tidak bersekolah dan bekerja di USA.**  
+ 🔧 **Perbaikan:** *Ada lebih dari 4 juta Gen Z yang tidak bersekolah maupun bekerja di Amerika Serikat.*  
+ 📌 *"di USA"* → lebih tepat gunakan *di Amerika Serikat*.  
+ 📌 *"tidak bersekolah dan bekerja”* → lebih tepat: *tidak bersekolah maupun bekerja*.
+ 
+ ---
+ 
+ ### 11. **Di inggris, ada sebuah permasalahan yang sama.**  
+ 🔧 **Perbaikan:** *Di Inggris, terdapat masalah yang serupa.*  
+ 📌 Kapitalisasi *Inggris*.  
+ 📌 *Permasalahan yang sama* → bisa diganti dengan *masalah yang serupa* agar lebih bervariasi dan alami.
+ 
+ ---
+ 
+ ### 12. **Ada total 987,000 kaum muda usia 16 sampai 24 tahun tidak dalam pendidikan, pekerjaan, atau pelatihan di bulan desember tahun lalu.**  
+ 🔧 **Perbaikan:** *Sebanyak 987.000 pemuda usia 16 hingga 24 tahun tidak mengikuti pendidikan, pekerjaan, atau pelatihan pada Desember tahun lalu.*  
+ 📌 Gunakan penulisan angka Indonesia (987.000).  
+ 📌 Kapitalisasi *Desember*.  
+ 📌 “kaum muda” → bisa disederhanakan menjadi *pemuda*.
+ 
+ ---
+ 
+ ### 13. **Ini telah mencapai lebih dari 100.000 dalam tahun terakhir ini.**  
+ 🔧 **Perbaikan:** *Jumlah ini meningkat lebih dari 100.000 dalam setahun terakhir.*  
+ 📌 *"telah mencapai"* → tidak jelas merujuk ke apa.  
+ 📌 *"dalam tahun terakhir ini”* → lebih alami *dalam setahun terakhir*.
+ 
+ ---
+ 
+ ### 14. **Banyak orang tidak menemukan pekerjaan karena kecerdasan buatan (AI).**  
+ 🔧 **Perbaikan:** *Banyak orang kesulitan mendapatkan pekerjaan karena kecerdasan buatan (AI).*  
+ 📌 *"tidak menemukan pekerjaan"* → bisa diganti agar lebih tepat dan halus.
+ 
+ ---
+ 
+ ### 15. **Sebuah angka penurunan pekerjaan sekarang terjadi disebabkan oleh AI.**  
+ 🔧 **Perbaikan:** *Terjadi penurunan jumlah pekerjaan akibat AI.*  
+ 📌 Perbaikan agar kalimat lebih ringkas dan natural.
+ 
+ ---
+ 
+ ### 16. **Ada ketakutan bahwa guru-guru, akuntan-akuntan, pengacara-pengacara, penulis, dan pekerjaan-pekerjaan lainnya benar-benar bisa menghilang.**  
+ 🔧 **Perbaikan:** *Ada kekhawatiran bahwa guru, akuntan, pengacara, penulis, dan profesi lainnya bisa benar-benar hilang.*  
+ 📌 Tidak perlu menggandakan kata benda jamak.  
+ 📌 *menghilang* → lebih alami diganti *hilang* dalam konteks pekerjaan.
+ 
+ ---
+ 
+ ### 17. **Bagaimanapun, beberapa orang berkata banyak lulusan tidak lagi menginginkan “tingkat pemula”.**  
+ 🔧 **Perbaikan:** *Namun, beberapa orang mengatakan bahwa banyak lulusan tidak lagi menginginkan posisi pemula.*  
+ 📌 *Bagaimanapun* lebih cocok diganti *Namun*.  
+ 📌 *"tingkat pemula"* → lebih tepat: *posisi pemula*.
+ 
+ ---
+ 
+ ### 18. **Melainkan, mereka ingin untuk masuk kesebuah perusahaan di posisi menejemen level dan dibayar dengan baik dalam pekerjaan mereka yang baru pertama kali.**  
+ 🔧 **Perbaikan:** *Sebaliknya, mereka ingin langsung masuk ke perusahaan pada level manajemen dan mendapat bayaran tinggi di pekerjaan pertama mereka.*  
+ 📌 Banyak typo: *kesebuah → ke sebuah*, *menejemen → manajemen*.  
+ 📌 Struktur kalimat dirapikan agar lebih enak dibaca.
